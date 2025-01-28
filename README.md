@@ -4,7 +4,9 @@ Este repositório contém o código para a página inicial do Spotify, desenvolv
 
 ## Visualização
 
-![Captura de tela 2025-01-28 195453](https://github.com/user-attachments/assets/c8da8dca-95c4-4577-9515-3e27e9489fc4)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c8da8dca-95c4-4577-9515-3e27e9489fc4" alt="Captura de tela 2025-01-28 195453">
+</div>
 
 ## Funcionalidades
 
