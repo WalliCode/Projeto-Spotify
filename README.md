@@ -6,9 +6,15 @@ Este repositório contém o código para a página inicial do Spotify, desenvolv
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c8da8dca-95c4-4577-9515-3e27e9489fc4" alt="Captura de tela 2025-01-28 195453">
-  <br>
+</p>
+
+*Captura de tela mostrando a estrutura inicial da sidebar.*
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/ddb6e725-122c-41c6-b9c8-cc0d02f04fad" alt="Captura de tela 2025-01-29 234044 - Barra de busca adicionada hoje">
 </p>
+
+*Captura de tela do dia 29 de janeiro de 2025, mostrando a nova barra de busca adicionada hoje.*
 
 ## Funcionalidades
 
