@@ -13,7 +13,6 @@ Bem-vindo ao repositório da página inicial do Spotify! Este projeto foi desenv
 
 <br>
 
-<div align="center">
   <img src="https://github.com/user-attachments/assets/ddb6e725-122c-41c6-b9c8-cc0d02f04fad" alt="Captura de tela 2025-01-29 234044 - Barra de busca adicionada hoje">
   <p>
     <strong>Captura de tela com a barra de busca:</strong> Esta imagem, tirada no dia 29 de janeiro de 2025, mostra a nova barra de busca adicionada hoje. A barra de busca permite aos usuários encontrar músicas e artistas com facilidade.
